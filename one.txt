@@ -4,3 +4,4 @@ line from bug branch
 test line one
 test line of track test
 adding text to test rebase this line should be reflected in the red brach after rebase 
+another test 
